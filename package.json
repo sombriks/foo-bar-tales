@@ -1,0 +1,12 @@
+{
+    "name": "foo-bar-tales",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "foo-bar-tales",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/icon.png"
+    }
+}
